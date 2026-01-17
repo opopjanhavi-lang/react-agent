@@ -95,6 +95,14 @@ You will see:
 
 ------------------------------------------------------------------------
 
+------------------------------------------------------------------------
+
+## 🛠️ Detailed Report
+
+-   The detailed report of the capstone project is present in the file **react_agent.pdf**.
+
+------------------------------------------------------------------------
+
 ## ✅ Expected Output
 
     Current weather in Mumbai: 30.2°C, haze
